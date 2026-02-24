@@ -96,7 +96,7 @@ export default function Features() {
                 </div>
               </AccordionTrigger>
               <AccordionContent className="text-[16px] leading-[24px] font-sans text-muted-foreground">
-                Download 50+ studio-quality headshots and reach-optimized bio
+                Download studio-quality headshots and reach-optimized bio
                 variants. Every asset is designed to increase your
                 profile-to-follower conversion rate.
               </AccordionContent>
